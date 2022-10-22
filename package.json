@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ochomenosocho/ochomenosochoLanding/issues"
   },
-  "homepage": "https://github.com/ochomenosocho/ochomenosochoLanding#readme"
+  "homepage": "https://github.com/ochomenosocho/ochomenosochoLanding#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
