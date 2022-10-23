@@ -4,7 +4,7 @@
   "description": "This is my personal landing page for ochomenosocho with JavaScript!",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages"
+    "deploy": "gh-pages -d src"
   },
   "repository": {
     "type": "git",
